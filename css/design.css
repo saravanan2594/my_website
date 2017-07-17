@@ -1,0 +1,30 @@
+.IndexMenu
+{ 
+	margin:0px 0px;
+	 margin-bottom:30px; 
+	 text-align: center;
+	 padding:0px; font-family:Raleway;
+	  color:#fff; font-size:13px; 
+	  font-weight:700;
+	   text-transform:uppercase;
+	    letter-spacing:0.10em;
+	}
+.IndexMenu li{
+ margin:0px 2px;
+  padding:15px 20px;
+ // text-align: center;
+   list-style:none; display:inline-table;
+    //margin-right:4px;
+}
+.IndexMenu li a{
+ color:#fff;
+  text-decoration:none;
+}
+//.IndexMenu li a:hover
+//{
+
+//}
+//.IndexMenu li:hover
+//	{ 
+	//background: url(../images/BlackBG.png) repeat left top; border-radius:24px;
+//}
